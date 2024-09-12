@@ -1,0 +1,23 @@
+
+###################################################################################################
+#AOE-loot module#
+#################
+#
+#    AOEloot.enable
+#         Description: AOEloot enable.
+#         Default:    0 - (Disabled)
+#                     1 - (Enabled)
+
+AOELt.enable = 1
+
+#
+#
+#    AOElootgroup.enable
+#        Description: AOEloot enable on group.
+#    	 Default: 0 - (Disabled)
+#                 1 - (Enabled)
+
+AOELt.group = 1
+
+#
+###################################################################################################
