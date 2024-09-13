@@ -20,7 +20,6 @@
 
 1. Simply place the module under the `modules` directory of your AzerothCore source. 
 2. Re-run CMake and rebuild the AzerothCore source.
-3. Run Sql on world from https://github.com/azerothcore/mod-skip-dk-starting-area/tree/master/sql/world on to the world db.
 ## Edit module configuration (optional)
 
 If you need to change the module configuration, go to your server configuration folder (where your worldserver or worldserver.exe is), copy AOElootmodule.conf.dist to AOElootmodule.conf and edit that new file.
